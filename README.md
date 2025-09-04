@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lokeshwaran Manoharan (lokeshbio)
+# 👋 Hi, I'm Lokeshwaran Manoharan
 
 **Bioinformatician | Data Enthusiast | Pipeline Builder**
 
